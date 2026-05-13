@@ -1,74 +1,58 @@
 # CV_Example
-# Hoja de Vida
+# Curriculum Vitae
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Julian Andres Galvis Garcia
+**Profession:** _Analyst and software developer_
 
-## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+## 📞 CONTACT
+- **Cellphone:** +57 314 315 7813
+- **Email:** [julian.0726@hotmail.com](mailto:julian.0726@hotmail.com)
+- **LinkedIn:** [linkedin.com/in/jagg26](https://linkedin.com/in/jagg26)
 
-## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+## 🏢 PROFESSIONAL EXPERIENCE
+### **Lodgify** _(Apr 2025 - Present)_
+- **`Connectivity Specialist:`**
+- `1. Achieved 95%+ CSAT and 97% QA score (Q1 2026).`
+- `2. Maintained <30 min First Response Time and ~2-hour resolution cycles.`
+- `3. Reduced repeat tickets by identifying recurring technical issues.`
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Velocity Global** _(Apr 2024 - Jan 2025)_
+- **`Platform Support Specialist:`**
+- `1. Resolved complex SaaS issues ensuring operational continuity.`
+- `2. Improved backlog management and SLA performance.`
+- `3. Collaborated with Product and Engineering to accelerate fixes.`
 
-## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+  ### **Freelancer** _(Jun 2022 - Feb 2024)_
+- **`Quality Analyst:`**
+- `1. Improved service quality through audits and coaching insights.`
+- `2. Reduced repeat issues via data-driven QA reports.`
 
-## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+  ### **Foundever** _(Feb 2021 - May 2022)_
+- **`Customer Success Associate:`**
+- `1. Reinforced SOP compliance and supported quality goals through consistent service execution.`
+- `2. Increased overall customer satisfaction through a new triaging process implementation.`
 
----
+### **Salud Total EPS-S** _(Mar 2017 - Jan 2021)_
+- **`Operations Analyst (Sept 2017 - Jan 2021):`**
+- `1. Handled high-volume requests from users and government entities, ensuring compliance and accuracy.`
+- `2. Implemented workflow improvements that reduced processing times and improved service quality.`
+- `3. Trained internal teams on SOPs and regulations to strengthen service consistency.`
 
-## 🎨 Formatos y Fuentes Disponibles
+- **`Legal Assistant (Mar 2017 - Sept 2017):`**
+- `1. Supported legal processes related to healthcare access, providing timely, accurate responses.`
+- `2. Maintained detailed documentation to support regulatory compliance.`
+  
+## 🎓 EDUCATION
+### **American Business School** _(Dec 2017)_
+- Associate’s Degree – Systems Administration.
 
-### **Negrita:**
-- `**Texto en negrita**` → **Texto en negrita**
+### **SENA** _(Dec 2013)_
+- Associate’s Degree – Commercial & Financial Operations
 
-### **Cursiva:**
-- `*Texto en cursiva*` → *Texto en cursiva*
-- `_Texto en cursiva_` → _Texto en cursiva_
+## 💡 SKILLS
+- **Technical Troubleshooting**
+- **Detail oriented**
+- **Process Improvement and optimization**
 
-### **Combinado:**
-- `***Texto en negrita y cursiva***` → ***Texto en negrita y cursiva***
-
-### **Encabezados:**
-- `# Encabezado 1`
-- `## Encabezado 2`
-- `### Encabezado 3`
-
-### **Citas:**
-> Esto es una cita
-
-### **Código:**
-- `` `código en línea` `` → `código en línea`
-- ```
-  Código en bloque
-  ```
-
-### **Listas:**
-- `- Elemento de lista`
-- `1. Elemento numerado`
-
-### **Enlaces:**
-- `[Texto del enlace](https://ejemplo.com)` → [Texto del enlace](https://ejemplo.com)
-
-### **Imágenes:**
-- `![Texto alternativo](https://ejemplo.com/imagen.jpg)`
-
-### **Tablas:**
-| Encabezado 1 | Encabezado 2 |
-|-------------|-------------|
-| Dato 1     | Dato 2      |
-
----
-
-Esta plantilla en Markdown es editable y adaptable para cada estudiante. ¡Personaliza según sea necesario! 🎯
-
+## 🌎 LANGUAGES
+Spanish: Native | English: C2 [EF Certified](https://www.efset.org/cert/Q9XkhR)
