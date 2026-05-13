@@ -22,12 +22,12 @@
 - `2. Improved backlog management and SLA performance.`
 - `3. Collaborated with Product and Engineering to accelerate fixes.`
 
-  ### **Freelancer** _(Jun 2022 - Feb 2024)_
+### **Freelancer** _(Jun 2022 - Feb 2024)_
 - **`Quality Analyst:`**
 - `1. Improved service quality through audits and coaching insights.`
 - `2. Reduced repeat issues via data-driven QA reports.`
 
-  ### **Foundever** _(Feb 2021 - May 2022)_
+### **Foundever** _(Feb 2021 - May 2022)_
 - **`Customer Success Associate:`**
 - `1. Reinforced SOP compliance and supported quality goals through consistent service execution.`
 - `2. Increased overall customer satisfaction through a new triaging process implementation.`
