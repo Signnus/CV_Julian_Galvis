@@ -5,7 +5,6 @@
 **Profession:** _Analyst and software developer_
 
 ## 📞 CONTACT
-- **Cellphone:** +57 314 315 7813
 - **Email:** [julian.0726@hotmail.com](mailto:julian.0726@hotmail.com)
 - **LinkedIn:** [linkedin.com/in/jagg26](https://linkedin.com/in/jagg26)
 
