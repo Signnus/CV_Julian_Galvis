@@ -17,15 +17,17 @@
 
 - 🛠 Tools & Technologies used:
 `Zendesk`
-`Jira`
-`Notion`
-`Slack`
-`G-Suite`
-`DataDog`
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 `XML`
-`JSON`
-`GRAPH-QL`
-`REST-API`
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Vulkan API](https://img.shields.io/badge/Vulkan-AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white&logoSize=auto)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   
 ### **Velocity Global** _(Apr 2024 - Jan 2025)_
 - **`Platform Support Specialist:`**
@@ -36,13 +38,13 @@
 - 🛠 Tools & Technologies used:
 `Zendesk`
 `DevRev`
-`Slack`
-`Jira`
-`Notion`
-`DataDog`
-`AWS`
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 `Okta`
-`JSON`
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### **Freelancer** _(Jun 2022 - Feb 2024)_
 - **`Quality Analyst:`**
@@ -50,10 +52,10 @@
   - `2. Reduced repeat issues via data-driven QA reports.`
 
 - 🛠 Tools & Technologies used:
-`Notion`
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 `PerformLine`
-`Slack`
-`G-Suite`
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
 ### **Foundever** _(Feb 2021 - May 2022)_
 - **`Customer Success Associate:`**
@@ -62,9 +64,9 @@
 
 - 🛠 Tools & Technologies used:
 `Zendesk`
-`Jira`
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 `Zingtree`
-`Slack`
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ### **Salud Total EPS-S** _(Mar 2017 - Jan 2021)_
 - **`Operations Analyst (Sept 2017 - Jan 2021):`**
